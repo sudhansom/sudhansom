@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Integrify as fullstack developre
+- 🔭 I’m currently working on Integrify as fullstack developer
 - 🌱 I’m currently learning React, Node js
 - 👯 I’m looking to collaborate on a backend project
 - 🤔 I’m ready to start now
