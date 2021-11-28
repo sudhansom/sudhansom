@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I am currently working on Integrify as fullstack developer
+- 🔭 I am currently enrolled with Integrify as fullstack developer
 - 🌱 Learning React, Node js
 - 👯 Looking to collaborate on a backend project
 - 🤔 Ready to start now
