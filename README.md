@@ -4,7 +4,7 @@
 
 
 - 🔭 I am currently enrolled with Integrify Academy as a fullstack developer
-- 🌱 Learning React, Node js
+- 🌱 Preety good in React, Node.js, Express
 - 👯 Looking to collaborate on a backend project
 - 🤔 Ready to start now
 - 💬 Ask me about anything
