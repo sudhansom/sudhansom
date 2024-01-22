@@ -4,7 +4,7 @@
 
 
 - 🔭 I am currently enrolled with B&B Tech as a Frontedn Developer
-- 🔭 Worked as a Frontend Developer specializing in Angular
+- 🔭 Worked as a Frontend Developer in System & Metode specializing in Angular
 - 🔭 Worked with Integrify Academy as a Fullstack Developer
 - 🌱 Preety good in Angular, React, Node.js, Express
 - 👯 Developed few fullstack projects and Home pages for few companies.
